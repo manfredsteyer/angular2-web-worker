@@ -1,0 +1,16 @@
+{
+  "name": "ng2-webworker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Manfred Steyer (http://www.softwarearchitekt.at)",
+  "license": "ISC",
+  "dependencies": {
+    "angular2": "2.0.0-alpha.48",
+    "systemjs": "0.19.2"
+  }
+}
